@@ -2,32 +2,6 @@
 
 Este é um aplicativo mobile de e-commerce desenvolvido em **React Native com Expo**, como parte de um desafio técnico. Ele possui funcionalidades completas como autenticação, carrinho persistente, formas de pagamento, entrega e histórico de pedidos.
 
-## 🖼️ Telas do Aplicativo
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="./assets/screenshots/Home.jpeg" width="160"/><br/>
-      <strong>🏠 Home</strong>
-    </td>
-    <td align="center">
-      <img src="./assets/screenshots/Carrinho.jpeg" width="160"/><br/>
-      <strong>🛒 Carrinho</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./assets/screenshots/Pagamento.jpeg" width="160"/><br/>
-      <strong>💳 Pagamento</strong>
-    </td>
-    <td align="center">
-      <img src="./assets/screenshots/Entrar.jpeg" width="160"/><br/>
-      <strong>👤 Login</strong>
-    </td>
-  </tr>
-</table>
-
-
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -116,6 +90,32 @@ Escaneie o QR Code exibido no terminal ou navegador após rodar o comando
 O app será carregado automaticamente no seu dispositivo
 
 No primeiro acesso é possível que haja um delay causado pelo acesso às APIs de Registro e Produtos
+
+## 🖼️ Telas do Aplicativo
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/Home.jpeg" width="160"/><br/>
+      <strong>🏠 Home</strong>
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/Carrinho.jpeg" width="160"/><br/>
+      <strong>🛒 Carrinho</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/Pagamento.jpeg" width="160"/><br/>
+      <strong>💳 Pagamento</strong>
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/Entrar.jpeg" width="160"/><br/>
+      <strong>👤 Login</strong>
+    </td>
+  </tr>
+</table>
+
 
 ### 📄 Informações da API
 
