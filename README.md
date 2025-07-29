@@ -96,25 +96,26 @@ No primeiro acesso é possível que haja um delay causado pelo acesso às APIs d
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./assets/screenshots/Home.jpeg" width="160"/><br/>
+      <img src="https://raw.githubusercontent.com/LuizHRDC/react-native-ecommerce/main/assets/screenshots/Home.jpeg" width="160"/><br/>
       <strong>🏠 Home</strong>
     </td>
     <td align="center">
-      <img src="./assets/screenshots/Carrinho.jpeg" width="160"/><br/>
+      <img src="https://raw.githubusercontent.com/LuizHRDC/react-native-ecommerce/main/assets/screenshots/Carrinho.jpeg" width="160"/><br/>
       <strong>🛒 Carrinho</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./assets/screenshots/Pagamento.jpeg" width="160"/><br/>
+      <img src="https://raw.githubusercontent.com/LuizHRDC/react-native-ecommerce/main/assets/screenshots/Pagamento.jpeg" width="160"/><br/>
       <strong>💳 Pagamento</strong>
     </td>
     <td align="center">
-      <img src="./assets/screenshots/Entrar.jpeg" width="160"/><br/>
+      <img src="https://raw.githubusercontent.com/LuizHRDC/react-native-ecommerce/main/assets/screenshots/Entrar.jpeg" width="160"/><br/>
       <strong>👤 Login</strong>
     </td>
   </tr>
 </table>
+
 
 
 ### 📄 Informações da API
