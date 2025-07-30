@@ -41,7 +41,7 @@ git clone https://github.com/LuizHRDC/react-native-ecommerce.git
 2 - Acesse o diretório do projeto:
 
 ```json
-cd vitrine
+cd react-native-ecommerce
 ```
 
 3 - Instale as dependências:
